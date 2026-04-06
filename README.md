@@ -391,17 +391,6 @@ Lacrei API ──► POST /v3/payments (Asaas API)
 
 ## Feedback recebido e melhorias aplicadas
 
-### Feedback da primeira entrega
-
-> "De forma geral, sua entrega apresentou uma boa base de infraestrutura, organização clara do repositório, documentação consistente no README, uso de Terraform, AWS, GitHub Actions e uma proposta de rollback bem estruturada."
-
-**Pontos positivos destacados:**
-- Separação entre os ambientes de staging e produção
-- Estruturação do pipeline de CI/CD
-- Boas práticas no Docker
-- Documentação detalhada das decisões técnicas
-- Clareza na proposta de observabilidade e rollback
-
 **Pontos de melhoria identificados e como foram resolvidos:**
 
 | Ponto de melhoria | Como foi resolvido |
