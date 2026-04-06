@@ -1,0 +1,19 @@
+﻿{
+  "name": "lacrei-devops-challenge",
+  "version": "1.0.0",
+  "description": "API ficticia para o desafio DevOps Lacrei Saude",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "node test/status.test.js",
+    "lint": "eslint src/"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "eslint": "^8.57.0"
+  }
+}
